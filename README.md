@@ -1,0 +1,1 @@
+The project represents the ToDo Tasks application created using Angular and NodeJS. 
